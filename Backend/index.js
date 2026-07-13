@@ -45,4 +45,4 @@ app.listen(PORT, async () => {
   await connectDB();
 });
 
-// app.use(errorMiddleware);
+app.use(errorMiddleware);
