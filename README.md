@@ -431,5 +431,7 @@ Frontend Development
 => **Ketan Dewalkar**
 Deployment & DevOps
 => **Suyash Singh**
+LOcal Deployement 
+<img width="1006" height="570" alt="image" src="https://github.com/user-attachments/assets/6ef1c26a-4959-4590-bd3c-a99d61ab7002" />
 
 
